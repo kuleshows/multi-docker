@@ -19,3 +19,5 @@ after_success:
   - docker push kuleshovs/multi-nginx 
   - docker push kuleshovs/multi-worker
   - docker push kuleshovs/multi-server
+
+  
